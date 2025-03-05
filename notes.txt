@@ -1,0 +1,3 @@
+uvicorn fastapi_app:app --host 127.0.0.1 --port 8000 --reload # to run fastapi_app
+
+streamlit run streamlit_app.py # to run stream lit file
