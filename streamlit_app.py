@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "https://deployment-chatbot.onrender.com/docs#/default/chat_chat_post"  
+API_URL = "https://deployment-chatbot.onrender.com/chat"  
 
 # Streamlit UI elements
 st.title("Chat with Me ✌️")
