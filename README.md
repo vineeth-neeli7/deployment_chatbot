@@ -53,6 +53,8 @@ future_enhancements:
   - Enhanced logging, performance metrics, and error tracking.
   - Full-stack integration for chatbot frontend.
 
+link for the chat bot - **https://chatbotbyvineethneeli.streamlit.app/**
+
 author:
   name: Sai Vineeth Neeli
   profile: https://github.com/vineeth-neeli7
